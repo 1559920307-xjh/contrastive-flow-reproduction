@@ -173,4 +173,4 @@ python eval_FID_auto.py \
 }
 ```
 
-保存后，即可将其与其他源代码文件一同上传到 GitHub。
+
